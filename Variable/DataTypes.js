@@ -3,6 +3,7 @@
 // are determined automatically. for example,
 let x= 10;   // here x is int type
 x= "hello"   // now x become string.
+// this is automatically done , its known as type coercion. when we do the conversion manually , its know as type conversion.
 
 // there are 7 data types in javascript as of now. most used are :
 // 1. Number: used for decimal and integers.

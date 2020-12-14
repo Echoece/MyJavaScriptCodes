@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="599bc925-5df9-4122-bbe3-8296abc04945" name="Default Changelist" comment="Spread Operator">
-      <change afterPath="$PROJECT_DIR$/Loops/DoWhileLoop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/ForEachLoop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/ForInLoop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/ForLoop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/ForOfLoop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/WhileLoop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operators/RestOperator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variable/DataTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variable/EnchancedObjectLiterals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/ArrayOperations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Destructuring.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/ArrowFunctions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/FunctionDelcaration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/FunctionExpression.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable/DataTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Variable/DataTypes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,29 +50,29 @@
       <recent name="D:\UIU\Code\Javascript\MyJavaScriptCodes" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.DataTypes.js">
+  <component name="RunManager" selected="Node.js.Destructuring.js">
+    <configuration name="ArrayOperations.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Array/ArrayOperations.js" working-dir="$PROJECT_DIR$/Array">
+      <method v="2" />
+    </configuration>
     <configuration name="DataTypes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Variable/DataTypes.js" working-dir="$PROJECT_DIR$/Variable">
       <method v="2" />
     </configuration>
-    <configuration name="EnchancedObjectLiterals.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Variable/EnchancedObjectLiterals.js" working-dir="$PROJECT_DIR$/Variable">
+    <configuration name="Destructuring.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Array/Destructuring.js" working-dir="$PROJECT_DIR$/Array">
       <method v="2" />
     </configuration>
-    <configuration name="ForEachLoop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Loops/ForEachLoop.js" working-dir="$PROJECT_DIR$/Loops">
+    <configuration name="FunctionDelcaration.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Functions/FunctionDelcaration.js" working-dir="$PROJECT_DIR$/Functions">
       <method v="2" />
     </configuration>
-    <configuration name="ForInLoop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Loops/ForInLoop.js" working-dir="$PROJECT_DIR$/Loops">
-      <method v="2" />
-    </configuration>
-    <configuration name="ForOfLoop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Loops/ForOfLoop.js" working-dir="$PROJECT_DIR$/Loops">
+    <configuration name="FunctionExpression.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Functions/FunctionExpression.js" working-dir="$PROJECT_DIR$/Functions">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Destructuring.js" />
+        <item itemvalue="Node.js.ArrayOperations.js" />
+        <item itemvalue="Node.js.FunctionExpression.js" />
+        <item itemvalue="Node.js.FunctionDelcaration.js" />
         <item itemvalue="Node.js.DataTypes.js" />
-        <item itemvalue="Node.js.EnchancedObjectLiterals.js" />
-        <item itemvalue="Node.js.ForEachLoop.js" />
-        <item itemvalue="Node.js.ForOfLoop.js" />
-        <item itemvalue="Node.js.ForInLoop.js" />
       </list>
     </recent_temporary>
   </component>
@@ -88,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607871078995</updated>
       <workItem from="1607871080126" duration="2528000" />
-      <workItem from="1607918361788" duration="8850000" />
+      <workItem from="1607918361788" duration="11212000" />
     </task>
     <task id="LOCAL-00001" summary="Operator">
       <created>1607873305015</created>
@@ -111,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607921912904</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Spread Operator">
+      <created>1607928380723</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607928380723</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
