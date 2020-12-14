@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="599bc925-5df9-4122-bbe3-8296abc04945" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Variable/Operators/BasicOperators.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variable/Operators/Equality.js" afterDir="false" />
+    <list default="true" id="599bc925-5df9-4122-bbe3-8296abc04945" name="Default Changelist" comment="Operator">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,10 +32,10 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.Equality.js">
-    <configuration name="BasicOperators.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Variable/Operators/BasicOperators.js" working-dir="$PROJECT_DIR$/Variable/Operators">
+    <configuration name="BasicOperators.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Operators/BasicOperators.js" working-dir="$PROJECT_DIR$/Operators">
       <method v="2" />
     </configuration>
-    <configuration name="Equality.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Variable/Operators/Equality.js" working-dir="$PROJECT_DIR$/Variable/Operators">
+    <configuration name="Equality.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Operators/Equality.js" working-dir="$PROJECT_DIR$/Operators">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -55,11 +53,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607871078995</updated>
-      <workItem from="1607871080126" duration="2116000" />
+      <workItem from="1607871080126" duration="2528000" />
     </task>
+    <task id="LOCAL-00001" summary="Operator">
+      <created>1607873305015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607873305015</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operator" />
   </component>
 </project>
