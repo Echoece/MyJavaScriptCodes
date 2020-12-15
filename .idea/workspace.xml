@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="599bc925-5df9-4122-bbe3-8296abc04945" name="Default Changelist" comment="Some more codes">
-      <change afterPath="$PROJECT_DIR$/DataStructures/Comparison.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/Map or object.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/Maps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/Objects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/Sets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/Strings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/FunctionOperations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Closure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Immediately Invoked Function Expressions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/FunctionOperations.js" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/FunctionOperations.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +47,11 @@
       <recent name="D:\UIU\Code\Javascript\MyJavaScriptCodes" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.FunctionOperations.js">
-    <configuration name="FunctionOperations.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Functions/FunctionOperations.js" working-dir="$PROJECT_DIR$/Functions">
+  <component name="RunManager" selected="Node.js.Closure.js">
+    <configuration name="Closure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Functions/Closure.js" working-dir="$PROJECT_DIR$/Functions">
       <method v="2" />
     </configuration>
-    <configuration name="Maps.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DataStructures/Maps.js" working-dir="$PROJECT_DIR$/DataStructures">
+    <configuration name="FunctionOperations.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Functions/FunctionOperations.js" working-dir="$PROJECT_DIR$/Functions">
       <method v="2" />
     </configuration>
     <configuration name="Objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DataStructures/Objects.js" working-dir="$PROJECT_DIR$/DataStructures">
@@ -69,11 +65,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Closure.js" />
         <item itemvalue="Node.js.FunctionOperations.js" />
         <item itemvalue="Node.js.Strings.js" />
-        <item itemvalue="Node.js.Objects.js" />
-        <item itemvalue="Node.js.Maps.js" />
         <item itemvalue="Node.js.Sets.js" />
+        <item itemvalue="Node.js.Objects.js" />
       </list>
     </recent_temporary>
   </component>
@@ -87,7 +83,9 @@
       <updated>1607871078995</updated>
       <workItem from="1607871080126" duration="2528000" />
       <workItem from="1607918361788" duration="13418000" />
-      <workItem from="1607945713866" duration="10089000" />
+      <workItem from="1607945713866" duration="10707000" />
+      <workItem from="1608028244472" duration="945000" />
+      <workItem from="1608045857990" duration="5592000" />
     </task>
     <task id="LOCAL-00001" summary="Operator">
       <created>1607873305015</created>
@@ -124,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607930657411</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Some more codes">
+      <created>1607958276243</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607958276243</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
