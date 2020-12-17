@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="599bc925-5df9-4122-bbe3-8296abc04945" name="Default Changelist" comment="Some more codes">
-      <change afterPath="$PROJECT_DIR$/Functions/Closure.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/Immediately Invoked Function Expressions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Array Method CheatSheet.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/FunctionOperations.js" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/FunctionOperations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/ArrayOperations.js" beforeDir="false" afterPath="$PROJECT_DIR$/Array/ArrayOperations.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -47,14 +46,14 @@
       <recent name="D:\UIU\Code\Javascript\MyJavaScriptCodes" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Closure.js">
+  <component name="RunManager" selected="Node.js.ArrayOperations.js">
+    <configuration name="ArrayOperations.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Array/ArrayOperations.js" working-dir="$PROJECT_DIR$/Array">
+      <method v="2" />
+    </configuration>
     <configuration name="Closure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Functions/Closure.js" working-dir="$PROJECT_DIR$/Functions">
       <method v="2" />
     </configuration>
     <configuration name="FunctionOperations.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Functions/FunctionOperations.js" working-dir="$PROJECT_DIR$/Functions">
-      <method v="2" />
-    </configuration>
-    <configuration name="Objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DataStructures/Objects.js" working-dir="$PROJECT_DIR$/DataStructures">
       <method v="2" />
     </configuration>
     <configuration name="Sets.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DataStructures/Sets.js" working-dir="$PROJECT_DIR$/DataStructures">
@@ -65,11 +64,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Closure.js" />
-        <item itemvalue="Node.js.FunctionOperations.js" />
         <item itemvalue="Node.js.Strings.js" />
         <item itemvalue="Node.js.Sets.js" />
-        <item itemvalue="Node.js.Objects.js" />
+        <item itemvalue="Node.js.FunctionOperations.js" />
+        <item itemvalue="Node.js.Closure.js" />
+        <item itemvalue="Node.js.ArrayOperations.js" />
       </list>
     </recent_temporary>
   </component>
@@ -85,7 +84,11 @@
       <workItem from="1607918361788" duration="13418000" />
       <workItem from="1607945713866" duration="10707000" />
       <workItem from="1608028244472" duration="945000" />
-      <workItem from="1608045857990" duration="5592000" />
+      <workItem from="1608045857990" duration="5864000" />
+      <workItem from="1608093953449" duration="455000" />
+      <workItem from="1608112733314" duration="1333000" />
+      <workItem from="1608130002919" duration="2310000" />
+      <workItem from="1608179090643" duration="417000" />
     </task>
     <task id="LOCAL-00001" summary="Operator">
       <created>1607873305015</created>
@@ -129,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607958276243</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Some more codes">
+      <created>1608053770653</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608053770653</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
