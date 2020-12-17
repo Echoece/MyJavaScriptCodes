@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="599bc925-5df9-4122-bbe3-8296abc04945" name="Default Changelist" comment="Some more codes">
-      <change afterPath="$PROJECT_DIR$/Array/Array Method CheatSheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Looping through array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Sorting Arrays.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Array/ArrayOperations.js" beforeDir="false" afterPath="$PROJECT_DIR$/Array/ArrayOperations.js" afterDir="false" />
     </list>
@@ -46,17 +47,17 @@
       <recent name="D:\UIU\Code\Javascript\MyJavaScriptCodes" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.ArrayOperations.js">
+  <component name="RunManager" selected="Node.js.Sorting Arrays.js">
     <configuration name="ArrayOperations.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Array/ArrayOperations.js" working-dir="$PROJECT_DIR$/Array">
       <method v="2" />
     </configuration>
-    <configuration name="Closure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Functions/Closure.js" working-dir="$PROJECT_DIR$/Functions">
-      <method v="2" />
-    </configuration>
-    <configuration name="FunctionOperations.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Functions/FunctionOperations.js" working-dir="$PROJECT_DIR$/Functions">
+    <configuration name="Looping through array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Array/Looping through array.js" working-dir="$PROJECT_DIR$/Array">
       <method v="2" />
     </configuration>
     <configuration name="Sets.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DataStructures/Sets.js" working-dir="$PROJECT_DIR$/DataStructures">
+      <method v="2" />
+    </configuration>
+    <configuration name="Sorting Arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Array/Sorting Arrays.js" working-dir="$PROJECT_DIR$/Array">
       <method v="2" />
     </configuration>
     <configuration name="Strings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DataStructures/Strings.js" working-dir="$PROJECT_DIR$/DataStructures">
@@ -64,11 +65,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Sorting Arrays.js" />
+        <item itemvalue="Node.js.ArrayOperations.js" />
+        <item itemvalue="Node.js.Looping through array.js" />
         <item itemvalue="Node.js.Strings.js" />
         <item itemvalue="Node.js.Sets.js" />
-        <item itemvalue="Node.js.FunctionOperations.js" />
-        <item itemvalue="Node.js.Closure.js" />
-        <item itemvalue="Node.js.ArrayOperations.js" />
       </list>
     </recent_temporary>
   </component>
@@ -89,6 +90,7 @@
       <workItem from="1608112733314" duration="1333000" />
       <workItem from="1608130002919" duration="2310000" />
       <workItem from="1608179090643" duration="417000" />
+      <workItem from="1608179537777" duration="3571000" />
     </task>
     <task id="LOCAL-00001" summary="Operator">
       <created>1607873305015</created>
@@ -139,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608053770653</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Some more codes">
+      <created>1608179624265</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608179624265</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

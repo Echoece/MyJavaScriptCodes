@@ -2,22 +2,6 @@
 let fruits = ['apple','banana'];
 let numberArray = [1,2,3,4,5,1];
 
-//------------------------------------------------------
-// •	for each takes a callback function and run it on each element
-fruits.forEach( (item,index) => console.log(`${item} has index of ${index}`)) ;
-
-// •    filter also takes a callback function, but the difference is it checks the return value. In other words it
-//      filters the elements which doesnt meet the callback function condition
-
-console.log(numberArray.filter(element => element !== 1));
-
-// •    important note: both foreach and filter doesnt return a new array, the original array goes through no change,
-//      to change the original array we need the map method. it returns a new array base on our condition,
-let mappedNumberArray= numberArray.map(element=> element+2);
-console.log(mappedNumberArray);
-
-// •
-//------------------------------------------------------
 
 // •	Access an Array item using the index position
 console.log(fruits[1]);
@@ -40,7 +24,10 @@ console.log(fruits.indexOf("apple"));
 fruits.reverse();
 
 //      Returns a new array that is this array joined with other array(s) and/or value(s).
-let newArray=[];
+let newArray=fruits.concat(numberArray);
+//       creates a new array with all sub-array elements concatenated into it
+const arr2 = [0, 1, 2, [ [3, 4] ] ];
+console.log(arr2.flat(2));
 
 //------------------------------------------------------
 
