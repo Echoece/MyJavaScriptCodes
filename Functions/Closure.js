@@ -2,7 +2,7 @@
 
 // in short, functions dont lose connection to the variable that existed at the functions birthplace.
 
-// A closure givs function access to all variables of its parent function, even after the parent function has returned. The
+// A closure gives function access to all variables of its parent function, even after the parent function has returned. The
 // function keeps a reference to its outer scope, that preserve the scope chain.
 
 // Less formally, a closure is like a backpack of all the variables where the function was created

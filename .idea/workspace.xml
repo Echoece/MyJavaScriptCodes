@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="599bc925-5df9-4122-bbe3-8296abc04945" name="Default Changelist" comment="Some more codes">
-      <change afterPath="$PROJECT_DIR$/Array/Looping through array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Sorting Arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM/1 Select,Create,Delete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM/2 Style,Attribute,classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM/3 eventListeners.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM/4 Event Propagation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM/5 Event Delegation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM/Event Propagation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM/Traversing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM/visualization of postion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/TimerFunctions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/smooth scrolling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers and Dates/Dates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers and Dates/MathFunctions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers and Dates/Numbers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/ArrayOperations.js" beforeDir="false" afterPath="$PROJECT_DIR$/Array/ArrayOperations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/Objects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Closure.js" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/Closure.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,28 +60,28 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.Sorting Arrays.js">
-    <configuration name="ArrayOperations.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Array/ArrayOperations.js" working-dir="$PROJECT_DIR$/Array">
+    <configuration name="Dates.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Numbers and Dates/Dates.js" working-dir="$PROJECT_DIR$/Numbers and Dates">
       <method v="2" />
     </configuration>
-    <configuration name="Looping through array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Array/Looping through array.js" working-dir="$PROJECT_DIR$/Array">
+    <configuration name="MathFunctions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Numbers and Dates/MathFunctions.js" working-dir="$PROJECT_DIR$/Numbers and Dates">
       <method v="2" />
     </configuration>
-    <configuration name="Sets.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DataStructures/Sets.js" working-dir="$PROJECT_DIR$/DataStructures">
+    <configuration name="Numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Numbers and Dates/Numbers.js" working-dir="$PROJECT_DIR$/Numbers and Dates">
       <method v="2" />
     </configuration>
     <configuration name="Sorting Arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Array/Sorting Arrays.js" working-dir="$PROJECT_DIR$/Array">
       <method v="2" />
     </configuration>
-    <configuration name="Strings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DataStructures/Strings.js" working-dir="$PROJECT_DIR$/DataStructures">
+    <configuration name="TimerFunctions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Example/TimerFunctions.js" working-dir="$PROJECT_DIR$/Example">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.TimerFunctions.js" />
         <item itemvalue="Node.js.Sorting Arrays.js" />
-        <item itemvalue="Node.js.ArrayOperations.js" />
-        <item itemvalue="Node.js.Looping through array.js" />
-        <item itemvalue="Node.js.Strings.js" />
-        <item itemvalue="Node.js.Sets.js" />
+        <item itemvalue="Node.js.Numbers.js" />
+        <item itemvalue="Node.js.MathFunctions.js" />
+        <item itemvalue="Node.js.Dates.js" />
       </list>
     </recent_temporary>
   </component>
@@ -90,7 +102,18 @@
       <workItem from="1608112733314" duration="1333000" />
       <workItem from="1608130002919" duration="2310000" />
       <workItem from="1608179090643" duration="417000" />
-      <workItem from="1608179537777" duration="3571000" />
+      <workItem from="1608179537777" duration="15619000" />
+      <workItem from="1608461227983" duration="4035000" />
+      <workItem from="1608539651304" duration="9343000" />
+      <workItem from="1608645353205" duration="2975000" />
+      <workItem from="1608701966024" duration="5512000" />
+      <workItem from="1609780521863" duration="341000" />
+      <workItem from="1609780921850" duration="39000" />
+      <workItem from="1609921399997" duration="1108000" />
+      <workItem from="1609944920008" duration="103000" />
+      <workItem from="1616354380975" duration="4000" />
+      <workItem from="1616393081786" duration="714000" />
+      <workItem from="1618414891702" duration="77000" />
     </task>
     <task id="LOCAL-00001" summary="Operator">
       <created>1607873305015</created>
@@ -148,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608179624265</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Some more codes">
+      <created>1608183192901</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608183192901</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -17,7 +17,7 @@ console.log(object1.hasOwnProperty("name"));
 //------------------------------------------------------
 // to access we can use the dot or bracket notation. but its better to use the bracket notation, since we can use dynamic values inside.
 const student ={
-    name: "rafiqul Islam",
+    name: "Rafiqul Islam",
     age : "20",
     department: "cse"
 }
